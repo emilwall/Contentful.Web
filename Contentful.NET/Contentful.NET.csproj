@@ -51,7 +51,7 @@
     <Compile Include="DataModels\AssetDetails.cs" />
     <Compile Include="DataModels\ContentfulItemBase.cs" />
     <Compile Include="DataModels\ContentType.cs" />
-    <Compile Include="DataModels\Entry.cs" />
+    <Compile Include="DataModels\IEntry.cs" />
     <Compile Include="DataModels\ErrorResponse.cs" />
     <Compile Include="DataModels\File.cs" />
     <Compile Include="DataModels\IContentfulItem.cs" />
